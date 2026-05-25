@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Random Forest",
+    "MAE": 2.6864,
+    "RMSE": 3.9583,
+    "R2": 0.9226,
+    "MAPE": 15.45
+  },
+  {
+    "model": "Gradient Boosting",
+    "MAE": 2.5471,
+    "RMSE": 3.8034,
+    "R2": 0.9286,
+    "MAPE": 14.39
+  },
+  {
+    "model": "MLP Neural Network",
+    "MAE": 2.5574,
+    "RMSE": 3.8094,
+    "R2": 0.9283,
+    "MAPE": 14.17
+  }
+]
